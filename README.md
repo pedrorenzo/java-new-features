@@ -1,6 +1,7 @@
 # Java New Features
 
 Example project with most popular Java 8, Java 9, Java 10, Java 11 and Java 12 new features.
+I will continue to update this project, as I study the new features of the new versions of Java.
 
 ## Java 8 features covered:
 
